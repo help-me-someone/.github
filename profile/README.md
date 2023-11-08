@@ -3,6 +3,8 @@
 
 This organization holds all the repositories for the `Scalable-p2 toktik` project.
 
+Everything is written in Golang (for learning purposes).
+
 The main repository for deploying can be found [here](https://github.com/help-me-someone/scalable-p2-orchestrator).
 
 It holds the following structure:
