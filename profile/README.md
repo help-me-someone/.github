@@ -74,4 +74,7 @@ helm upgrade --install traefik traefik/traefik
 
 Now you should be able to access the [login page](http://localhost/login).
 
+# Pointless Venture (The presentation)
+If you are interested in seeing the fruits of my pointless venture, check out the presentation [here](https://github.com/help-me-someone/pointless-venture).
+
 
