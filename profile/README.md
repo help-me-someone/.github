@@ -38,6 +38,9 @@ It holds the following structure:
 └── traefik.yaml
 ```
 
+# Design
+![alt text](https://github.com/help-me-someone/.github/blob/main/design.png?raw=true)
+
 # Building
 
 The following secrets are required.
